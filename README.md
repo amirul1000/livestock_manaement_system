@@ -1,4 +1,4 @@
-"# livestock_manaement_system" 
+"# livestock manaement system" 
 
 <img src="images/Screenshot.png">
 
